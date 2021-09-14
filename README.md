@@ -2,7 +2,7 @@
 
 Este juego esta echo con `HTML`,`CSS` y `JAVA SCRIPT`. Esta configurado para ser controlado con las flechas de teclado `IZQUIERDA` y `DERECHA` 🦄
 
-## What's in this project?
+## ¿Qué hay en este Proyecto?
 
 ← `index.html`: Es la pantalla que aparece en la página principal del usuario y además conductor de `CSS` y `JAVA SCRIPT`.
 
