@@ -1,3 +1,4 @@
+//CODE BY: Wilde's Cave 悲
 var character = document.getElementById("character");
 var game = document.getElementById("game");
 var interval;
