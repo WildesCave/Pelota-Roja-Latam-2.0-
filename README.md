@@ -14,12 +14,12 @@ Este juego esta echo con `HTML`,`CSS` y `JAVA SCRIPT`. Esta configurado para ser
 
 Nosotros somos una comunidad nueva, enfocada en muchos temas, escencialmente la programación `Wilde's Cave 悲` Te traemos el mejor contenido y de alta calidad!
 
-___Want a minimal version of this project to build your own website? Check out [Blank Website](https://glitch.com/edit/#!/remix/glitch-blank-website)!___
+## Visitanos en Youtube:
 
-[Youtube](https://www.youtube.com/channel/UCNMzB7x-dytJ300hKYiQDPg)
+[Youtube - Wilde's Cave 悲](https://www.youtube.com/channel/UCNMzB7x-dytJ300hKYiQDPg)
 
 ## Tambien estamos en Discord!
 
-[Discord](https://discord.com/invite/XR7B4a7Ptq).
+[Discord - Wilde's Cave 悲](https://discord.com/invite/XR7B4a7Ptq).
 
 //SUSCRIBE Y COMPARTE!!
