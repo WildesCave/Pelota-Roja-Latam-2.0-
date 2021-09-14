@@ -4,8 +4,6 @@ Este juego esta echo con `HTML`,`CSS` y `JAVA SCRIPT`. Esta configurado para ser
 
 ## What's in this project?
 
-← `README.md`: That's this file, where you can tell people what your cool website does and how you built it.
-
 ← `index.html`: Es la pantalla que aparece en la página principal del usuario y además conductor de `CSS` y `JAVA SCRIPT`.
 
 ← `style.css`:  Son los estilos, margenes, colores y tamaños de la plantilla.
